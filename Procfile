@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run smoke_alarm_on_off.py
